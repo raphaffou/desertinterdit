@@ -1,0 +1,13 @@
+# gitignore
+out
+out/*
+.idea
+.idea/*
+.vscode/*
+.vscode
+*/.vscode
+*/.vscode/*
+*/.idea
+*/.idea/*
+build
+build/*
